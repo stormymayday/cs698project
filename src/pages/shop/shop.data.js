@@ -8,7 +8,7 @@ const SHOP_DATA = [
                 id: 1,
                 name: 'Banana',
                 imageUrl: require('../../../src/assets/banana.png'),
-                price: 25
+                price: 1
             },
             {
                 id: 2,
