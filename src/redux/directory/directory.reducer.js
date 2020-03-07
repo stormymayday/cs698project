@@ -2,35 +2,35 @@ const INITIAL_STATE = {
     sections: [
         {
             title: 'fruits',
-            imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+            imageUrl: require('../../assets/fruits.png'),
             id: 1,
             linkUrl: 'shop/fruits'
         },
         {
-            title: 'jackets',
-            imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
+            title: 'vegetables',
+            imageUrl: require('../../assets/vegetables.png'),
             id: 2,
-            linkUrl: 'shop/jackets'
+            linkUrl: 'shop/vegetables'
         },
         {
-            title: 'sneakers',
-            imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
+            title: 'nuts',
+            imageUrl: require('../../assets/nuts.png'),
             id: 3,
-            linkUrl: 'shop/sneakers'
+            linkUrl: 'shop/nuts'
         },
         {
-            title: 'womens',
-            imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+            title: 'herbs',
+            imageUrl: require('../../assets/herbs.png'),
             size: 'large',
             id: 4,
-            linkUrl: 'shop/womens'
+            linkUrl: 'shop/herbs'
         },
         {
-            title: 'mens',
-            imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
+            title: 'spices',
+            imageUrl: require('../../assets/spices.png'),
             size: 'large',
             id: 5,
-            linkUrl: 'shop/mens'
+            linkUrl: 'shop/spices'
         }
     ]
 };

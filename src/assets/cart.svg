@@ -1,0 +1,16 @@
+<svg width="66" height="67" xmlns="http://www.w3.org/2000/svg">
+
+ <title/>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke-width="2px" stroke-linejoin="round" stroke="#ffffff" fill="none" id="svg_2" d="m26.79,37.26l18.84,0a1.56,1.56 0 0 0 1.53,-1.17l2.84,-11.47a1.16,1.16 0 0 0 -1.25,-1.05l-27,0" class="cls-1"/>
+  <line stroke-linecap="round" stroke-width="2px" stroke-linejoin="round" stroke="#ffffff" fill="none" id="svg_3" y2="19" y1="19" x2="15.48" x1="20.19" class="cls-2"/>
+  <polyline stroke-linecap="round" stroke-width="2px" stroke-linejoin="round" stroke="#ffffff" fill="none" id="svg_4" points="46.86 43.35 28.03 43.35 20.19 19" class="cls-2"/>
+  <ellipse fill="#ffffff" id="svg_5" ry="3.04" rx="3.14" cy="50.96" cx="31.17" class="cls-3"/>
+  <ellipse fill="#ffffff" id="svg_6" ry="3.04" rx="3.14" cy="50.96" cx="43.72" class="cls-3"/>
+ </g>
+</svg>
