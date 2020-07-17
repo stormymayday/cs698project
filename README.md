@@ -1,6 +1,4 @@
-Single Page E-Commerce Application.
-Front-end was built with React and Redux.
-User authentication and data storage have been implemented using Google Firebase.
+Single Page E-Commerce Application. Front-end was built with React and Redux. User authentication and data storage have been implemented using Google Firebase.
 The payment system has been implemented by leveraging the Stripe API.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
